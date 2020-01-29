@@ -1,1 +1,1 @@
-Files with Git commands
+Excercise to practice Git.
